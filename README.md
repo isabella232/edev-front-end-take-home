@@ -3,8 +3,12 @@
 ## Objectives
 
 The main goal of this take home is to build a responsive website which serves data from an API.
-<image1 Desktop>
-<image2 Mobile>
+
+### Desktop mock up
+![Desktop](https://github.com/LedgerHQ/edev-front-end-take-home/blob/master/public/images/desktop.png?raw=true)
+### Mobile mock up
+![Mobile](https://github.com/LedgerHQ/edev-front-end-take-home/blob/master/public/images/mobile.png?raw=true)
+
 
 You are expected to make requests to get data from this API [endpoint]. 
 Use the data from the API endpoint to populate the cards and sections of the mock up.
