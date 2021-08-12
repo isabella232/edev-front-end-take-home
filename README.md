@@ -9,14 +9,14 @@ Use the data from the API endpoint to populate the cards and sections of the moc
 
 The completed result should include:
 
-- A desktop view
-- A mobile view
-- Stylesheets in LESS or SCSS
+- A desktop view.
+- A mobile view.
+- Stylesheets in LESS or SCSS.
 - Style the layout to match the above mockups.
 
 The Completed result should not include:
 
-- Bootstrap styles
+- Bootstrap styles.
 
 ## Getting started
 
