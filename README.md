@@ -13,8 +13,6 @@ The completed result should include:
 - A mobile view
 - Stylesheets in LESS or SCSS
 - Style the layout to match the above mockups.
-- Bonus: Anything you have in mind.
-- Bonus: Feel free to add unit/integration tests
 
 The Completed result should not include:
 
